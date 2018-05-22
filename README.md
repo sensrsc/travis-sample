@@ -2,4 +2,4 @@
 
 # travis-sample
 
-## setup
+## setu
